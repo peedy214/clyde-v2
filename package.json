@@ -1,0 +1,14 @@
+{
+  "name": "clyde-v2",
+  "version": "1.2.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Peedy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
